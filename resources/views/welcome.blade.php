@@ -162,7 +162,7 @@
             <div class="content-body">
                 <div class="success-text">Success!</div>
                 <div class="description line-1"> Azure DevOps Project has been successfully setup</div>
-                <div class="description line-2"> Your PHP Laravel app is up and running on Azure</div>
+                <div class="description line-2"> Hello! Estoy modificando esto</div>
                 <div class="next-steps-container">
                     <div class="next-steps-header">Next up</div>
                     <div class="next-steps-body">
